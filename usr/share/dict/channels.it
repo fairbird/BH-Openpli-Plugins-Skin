@@ -1,0 +1,605 @@
+1;899;Rai 1;101;213f:3070:13e
+1;898;Rai 2;102;2140:3070:13e
+1;897;Rai 3;103;2141:3070:13e
+1;892;Rete 4;104;3:1770:110
+1;893;Canale 5;105;5:1770:110
+1;894;Italia 1;106;1:1770:110
+1;319;La7;107;2c37:251c:fbff
+1;395;MTV;108;2c83:251c:fbff
+1;718;Sky Uno;109;2dc6:1a2c:fbff
+1;120;Sky Uno +1;110;2b70:19c8:fbff
+1;122;Fox;111;1fba:189c:fbff
+1;635;Fox +1;112;e33:16a8:fbff
+1;53;Fox +2;113;fd5:2648:fbff
+1;133;Fox Life;114;1fc5:189c:fbff
+1;529;Fox Life +1;115;38c1:1af4:fbff
+1;54;Fox Life +2;116;fd6:2648:fbff
+1;139;Fox Crime;117;1fcb:189c:fbff
+1;141;Fox Crime +1;118;1fcd:189c:fbff
+1;55;Fox Crime +2;119;fd7:2648:fbff
+1;257;AXN HD;120;1c59:206c:fbff
+1;425;AXN +1;121;591:320:fbff
+1;318;Comedy Central;122;2c36:251c:fbff
+1;272;Comedy +1;123;2ff0:1d4c:fbff
+1;568;Real Time;124;2d30:2774:fbff
+1;268;Real Time +1;125;2fec:1d4c:fbff
+1;110;cielo;126;2b66:19c8:fbff
+1;423;LEI;127;24cf:2260:fbff
+1;594;DIVA Universal;128;3902:1af4:fbff
+1;472;E!;129;2cd0:2580:fbff
+1;136;Fox Retro;132;1fc8:189c:fbff
+1;269;AXN Sci-Fi;133;2fed:1d4c:fbff
+1;67;Horror Channel;134;fe3:2648:fbff
+1;439;Lady Channel;135;59f:320:fbff
+1;410;EasyBaby;137;24c2:2260:fbff
+1;60;Arturo;138;fdc:2648:fbff
+1;51;You&Me;139;fd3:2648:fbff
+1;267;Babel;141;2feb:1d4c:fbff
+1;458;La3;143;2cc2:2580:fbff
+1;350;Nuvolari;144;3426:2710:fbff
+1;974;Deejay Tv;145;1d2d:2fa8:13e
+1;213;GXT;146;2bcd:1a90:fbff
+1;263;GXT +1;147;2fe7:1d4c:fbff
+1;479;MAN-GA;149;2507:2260:fbff
+1;247;Sky 3D;150;37a7:14b4:fbff
+1;811;ClassTvModa;180;313:1b58:13e
+1;718;Sky Uno;183;2dc6:1a2c:fbff
+1;122;Fox;184;1fba:189c:fbff
+1;139;Fox Crime;186;1fcb:189c:fbff
+1;1312;AXN HD;188;2c30:251c:fbff
+1;102;TEST_113_1HD;190;1006:2c24:fbff
+1;103;TEST_113_2HD;191;1007:2c24:fbff
+1;104;TEST_113_3HD;192;1008:2c24:fbff
+1;761;Sky Selection;193;2df1:1a2c:fbff
+1;942;Sky Selection;194;f66:2198:fbff
+1;106;TEST_113_4HD;195;100a:2c24:fbff
+1;108;TEST_113_5SD;196;100c:2c24:fbff
+1;111;TEST_113_6HD;197;100f:2c24:fbff
+1;112;TEST_113_7HD;198;1010:2c24:fbff
+1;113;TEST_113_8HD;199;1011:2c24:fbff
+1;929;Sky Sport24;200;2ab1:1838:fbff
+1;920;Sky Sport 1;201;2aa8:1838:fbff
+1;921;Sky Sport 2;202;2aa9:1838:fbff
+1;737;Sky Sport 3;203;2dd9:1a2c:fbff
+1;752;Sky Mondiale HD;204;1e48:15e0:fbff
+1;922;Sky Supercalcio;205;2aaa:1838:fbff
+1;248;Sky 3D;209;37a8:14b4:fbff
+1;566;Eurosport;211;2d2e:2774:fbff
+1;567;Eurosport 2;212;2d2f:2774:fbff
+1;473;ESPN America;214;2cd1:2580:fbff
+1;426;ESPN Classic;216;592:320:fbff
+1;323;SNAI Sat;220;10e3:1644:fbff
+1;5290;Class HorseTv;221;310:1b58:13e
+1;5286;POKERItalia24;222;34f4:3c28:13e
+1;5246;SuperTennis;224;70:1e14:13e
+1;303;Sportitalia;225;2c27:251c:fbff
+1;306;Sportitalia2;226;2c2a:251c:fbff
+1;807;RAI Sport 1;227;ce9:1518:13e
+1;5292;RAI Sport 2;228;ce5:1518:13e
+1;322;Milan Channel;230;2c3a:251c:fbff
+1;455;Juventus Channel;231;2cbf:2580:fbff
+1;456;Inter Channel;232;2cc0:2580:fbff
+1;478;Roma Channel;234;2506:2260:fbff
+1;142;Caccia e Pesca;235;1fce:189c:fbff
+1;302;Caccia e Pesca +;236;10ce:1644:fbff
+1;5314;Moto TV;237;245e:23f0:13f
+1;920;Sky Sport 1;241;2aa8:1838:fbff
+1;921;Sky Sport 2;242;2aa9:1838:fbff
+1;737;Sky Sport 3;243;2dd9:1a2c:fbff
+1;608;Sky Mondiale;244;2d58:170c:fbff
+1;922;Sky Supercalcio;245;2aaa:1838:fbff
+1;1317;Eurosport HD;246;2c35:251c:fbff
+1;311;Sky Calcio Info;248;2c2f:251c:fbff
+1;927;Sky Supercalcio;249;2aaf:1838:fbff
+1;938;Sky Sport24;250;2aba:1838:fbff
+1;719;Sky Calcio 1;251;2dc7:1a2c:fbff
+1;215;Sky Calcio 2;252;2bcf:1a90:fbff
+1;217;Sky Calcio 3;253;2bd1:1a90:fbff
+1;219;Sky Calcio 4;254;2bd3:1a90:fbff
+1;221;Sky Calcio 5;255;2bd5:1a90:fbff
+1;223;Sky Calcio 6;256;2bd7:1a90:fbff
+1;775;Sky Calcio 7 HD;257;1e5f:15e0:fbff
+1;772;Sky Calcio 8 HD;258;1e5c:15e0:fbff
+1;613;Sky Calcio 9;259;2d5d:170c:fbff
+1;615;Sky Calcio 10;260;2d5f:170c:fbff
+1;617;Sky Calcio 11;261;2d61:170c:fbff
+1;618;Sky Calcio 12;262;2d62:170c:fbff
+1;619;Sky Calcio 13;263;2d63:170c:fbff
+1;727;Sky Calcio 14;264;2dcf:1a2c:fbff
+1;720;Sky Calcio 15;265;2dc8:1a2c:fbff
+1;719;Sky Calcio 1;271;2dc7:1a2c:fbff
+1;215;Sky Calcio 2;272;2bcf:1a90:fbff
+1;217;Sky Calcio 3;273;2bd1:1a90:fbff
+1;219;Sky Calcio 4;274;2bd3:1a90:fbff
+1;221;Sky Calcio 5;275;2bd5:1a90:fbff
+1;223;Sky Calcio 6;276;2bd7:1a90:fbff
+1;225;Sky Calcio 7;277;2bd9:1a90:fbff
+1;606;Sky Calcio 8;278;2d56:170c:fbff
+1;5402;Eurosport 2 HD;288;3b63:12c:13e
+1;5403;Eurosport 3D;289;3305:44c:13e
+1;452;Sky Inside;300;24ec:2260:fbff
+1;101;Cinema 1;301;2b5d:19c8:fbff
+1;722;Cinema +1;302;2dca:1a2c:fbff
+1;31;Cinema +24 HD;303;2b17:1900:fbff
+1;724;Cinema Hits;304;2dcc:1a2c:fbff
+1;105;Cinema Family;306;2b61:19c8:fbff
+1;123;Cinema Passion;308;2b73:19c8:fbff
+1;30;Cinema Comedy HD;310;2b16:1900:fbff
+1;115;Cinema Max;312;2b6b:19c8:fbff
+1;774;Cinema Max +1 HD;313;1e5e:15e0:fbff
+1;32;Cinema Classics HD;315;2b18:1900:fbff
+1;137;Cult;319;1fc9:189c:fbff
+1;477;MGM;320;2505:2260:fbff
+1;249;Sky 3D;321;37a9:14b4:fbff
+1;101;Cinema 1;331;2b5d:19c8:fbff
+1;722;Cinema +1;332;2dca:1a2c:fbff
+1;107;Cinema +24;333;2b63:19c8:fbff
+1;724;Cinema Hits;334;2dcc:1a2c:fbff
+1;105;Cinema Family;336;2b61:19c8:fbff
+1;123;Cinema Passion;338;2b73:19c8:fbff
+1;725;Cinema Comedy;340;2dcd:1a2c:fbff
+1;115;Cinema Max;342;2b6b:19c8:fbff
+1;715;Cinema Max +1;343;2dc3:1a2c:fbff
+1;109;Cinema Classics;345;2b65:19c8:fbff
+1;124;Vetrina Primafila;350;1fbc:189c:fbff
+1;771;Primafila 1 HD;351;1e5b:15e0:fbff
+1;450;Primafila 2;352;24ea:2260:fbff
+1;776;Primafila 3 HD;353;1e60:15e0:fbff
+1;560;Primafila 4;354;38e0:1af4:fbff
+1;214;Primafila 5;355;2bce:1a90:fbff
+1;561;Primafila 6;356;38e1:1af4:fbff
+1;212;Primafila 7;357;2bcc:1a90:fbff
+1;325;Primafila 8;358;340d:2710:fbff
+1;210;Primafila 9;359;2bca:1a90:fbff
+1;312;Primafila 10;360;3400:2710:fbff
+1;205;Primafila 11;361;2bc5:1a90:fbff
+1;314;Primafila 12;362;3402:2710:fbff
+1;203;Primafila 13;363;2bc3:1a90:fbff
+1;317;Primafila 14;364;3405:2710:fbff
+1;607;Primafila 15;365;2d57:170c:fbff
+1;603;Primafila 16;366;2d53:170c:fbff
+1;601;Primafila 17;367;2d51:170c:fbff
+1;604;Primafila 18;368;2d54:170c:fbff
+1;605;Primafila 19;369;2d55:170c:fbff
+1;650;Primafila 20;370;2d82:170c:fbff
+1;525;Primafila 21;371;38bd:1af4:fbff
+1;524;Primafila 22;372;38bc:1af4:fbff
+1;354;Primafila 23;373;342a:2710:fbff
+1;365;Primafila 24;374;3435:2710:fbff
+1;3361;Primafila 25;375;3431:2710:fbff
+1;3362;Primafila 26;376;3432:2710:fbff
+1;3363;Primafila 27;377;3433:2710:fbff
+1;526;Primafila 28;378;38be:1af4:fbff
+1;504;Primafila 29;379;db0:2db4:fbff
+1;505;Primafila 30;380;db1:2db4:fbff
+1;506;Primafila 31;381;db2:2db4:fbff
+1;507;Primafila 32;382;db3:2db4:fbff
+1;508;Primafila 33;383;db4:2db4:fbff
+1;509;Primafila 34;384;db5:2db4:fbff
+1;518;Primafila 35;385;dbe:2db4:fbff
+1;519;Primafila 36;386;dbf:2db4:fbff
+1;520;Primafila 37;387;dc0:2db4:fbff
+1;521;Primafila 38;388;dc1:2db4:fbff
+1;522;Primafila 39;389;dc2:2db4:fbff
+1;52;Primafila 40;390;fd4:2648:fbff
+1;621;Primafila 1;391;2d65:170c:fbff
+1;216;Primafila 3;392;2bd0:1a90:fbff
+1;214;Primafila 5;393;2bce:1a90:fbff
+1;212;Primafila 7;394;2bcc:1a90:fbff
+1;210;Primafila 9;395;2bca:1a90:fbff
+1;205;Primafila 11;396;2bc5:1a90:fbff
+1;203;Primafila 13;397;2bc3:1a90:fbff
+1;125;Vetrina Primafila;399;1fbd:189c:fbff
+1;457;Sky Inside;400;24f1:2260:fbff
+1;770;Discovery HD;401;1e5a:15e0:fbff
+1;331;Discovery +1;402;3be3:64:fbff
+1;641;NationalGeo;403;e39:16a8:fbff
+1;58;NationalGeo +1;404;fda:2648:fbff
+1;467;Discovery Sci;405;5bb:320:fbff
+1;465;Discovery Travel;406;5b9:320:fbff
+1;143;History;407;1fcf:189c:fbff
+1;57;History +1;408;fd9:2648:fbff
+1;126;NatGeo Wild;409;1fbe:189c:fbff
+1;121;NatGeoAdventur;410;1fb9:189c:fbff
+1;140;Gambero Rosso;411;1fcc:189c:fbff
+1;476;DoveTv;412;2504:2260:fbff
+1;633;Marcopolo;414;e31:16a8:fbff
+1;630;Alice;416;e2e:16a8:fbff
+1;631;Leonardo;418;e2f:16a8:fbff
+1;274;Animal Planet;421;2ff2:1d4c:fbff
+1;5315;Wedding TV;426;44c1:258:13e
+1;474;Yacht & Sail;430;2502:2260:fbff
+1;353;Doctor's Life;440;1101:1644:fbff
+1;931;Discovery;451;2ab3:1838:fbff
+1;641;NationalGeo;452;e39:16a8:fbff
+1;5310;QVC;475;e25:708:c8
+1;5143;World Fashion Channel;488;39dc:1fa4:13e
+1;810;Fashion TV;489;43a3:2cec:13e
+1;5317;Fashion One;490;34be:3c28:13e
+1;960;ARTE;492;29cf:3cf0:13e
+1;362;Sky TG24;500;110a:1644:fbff
+1;321;Sky Meteo24;501;10e1:1644:fbff
+1;936;Sky Sport24;502;2ab8:1838:fbff
+1;328;TG24PrimoPiano;503;10e8:1644:fbff
+1;332;TG24 Eventi;504;10ec:1644:fbff
+1;330;TG24 Rassegne;505;10ea:1644:fbff
+1;229;In evidenza;506;2fc5:1d4c:fbff
+1;433;Class CNBC;507;599:320:fbff
+1;895;RAI News;508;2144:3070:13e
+1;5312;TG NORBA 24;510;420b:3db8:13e
+1;849;Telelombardia;511;e20:708:c8
+1;5321;A3 NORDEST;513;231c:238c:13e
+1;5311;Primocanale Liguria;515;420f:3db8:13e
+1;5313;Italia 7 Toscana;517;420e:3db8:13e
+1;864;Roma Uno;518;2cd:1b58:13e
+1;838;Videolina Sat;519;44d5:258:13e
+1;5407;SMtv SAN MARINO;520;1c55:1c20:13e
+1;801;Euronews;521;2013:24b8:13e
+1;445;Sky News;522;24e5:2260:fbff
+1;446;Fox News;523;24e6:2260:fbff
+1;826;Camera dei Deputati;524;ce6:1518:13e
+1;825;Senato Italiano;525;d50:1450:13e
+1;211;CNN Intl.;526;2bcb:1a90:fbff
+1;59;Fox Business;527;fdb:2648:fbff
+1;5291;CNBC;528;3912:32c8:13e
+1;5256;Bloomberg;529;1c86:332c:13e
+1;891;BBC World News;530;200c:24b8:13e
+1;5296;France 24 English;531;361a:c8:13e
+1;5113;Al Jazeera Intl.;532;6b2:3138:13e
+1;5297;NHK World TV;533;1c9f:332c:13e
+1;5298;Arirang TV;534;29db:3cf0:13e
+1;5150;CCTV News;535;6aa:3138:13e
+1;5144;Russia Today;536;44dd:258:13e
+1;5159;TVE Internacional;538;358e:1388:13e
+1;5254;Canal 24 Horas;539;3590:1388:13e
+1;5322;teleSUR;540;35a9:1388:13e
+1;5119;France 24 Francais;541;3619:c8:13e
+1;873;TV5 Europe;542;1c9a:332c:13e
+1;5203;Deutsche Welle;543;25f:3c8c:13e
+1;5329;Das Erste;545;e26:708:c8
+1;962;ZDF;546;1f4b:319c:13e
+1;5299;RTL II;547;1f44:319c:13e
+1;5279;BVN;548;439f:2cec:13e
+1;5303;TV Biznes;551;3333:3390:71
+1;5190;TVP Polonia;552;13ed:5dc:13e
+1;5191;TVP Kultura;553;13f9:5dc:13e
+1;5300;ERT World;556;43ac:2cec:13e
+1;5192;TVR Intl.;558;29d3:3cf0:13e
+1;5262;ProTv International;559;125d:3458:13e
+1;5114;Al Jazeera;560;2c4:1b58:13e
+1;5157;Al Arabiya;561;2529:13ef:13e
+1;5193;BBC Arabic;562;365f:1388:13e
+1;5273;TRT Turk;564;6b0:3138:13e
+1;5194;2 M Monde;565;6a9:3138:13e
+1;5195;Medi 1 Sat;566;8:2e18:b0
+1;5156;MBC Maghreb;567;252b:13ef:13e
+1;5196;ESC - Al Masriyah;568;8:25e4:2be
+1;5197;Tunis 7;569;1c22:1c20:13e
+1;5166;Canal Algerie;570;226a:238c:13e
+1;5198;Vesti;575;6ae:3138:13e
+1;5199;RTR Planeta;576;6ac:3138:13e
+1;5201;Channel 1 Russia;577;2010:24b8:13e
+1;5202;CCTV-4;580;1c38:1c20:13e
+1;5305;JUSTICE TV;586;20f1:3db8:13e
+1;461;Sky Inside;600;24f5:2260:fbff
+1;460;DeAKids;601;2cc4:2580:fbff
+1;364;DeAKids +1;602;3c04:64:fbff
+1;424;Nick Jr;603;590:320:fbff
+1;580;Nick Jr +1;604;2d3c:2774:fbff
+1;320;Nickelodeon;605;2c38:251c:fbff
+1;273;Nickelodeon +1;606;2ff1:1d4c:fbff
+1;308;Cartoon Network;607;3bcc:64:fbff
+1;264;Cartoon +1;608;2fe8:1d4c:fbff
+1;367;Boomerang;609;3c07:64:fbff
+1;265;Boomerang +1;610;2fe9:1d4c:fbff
+1;132;Disney Junior;611;2b7c:19c8:fbff
+1;301;Disney Junior +1;612;3bc5:64:fbff
+1;118;Disney Channel;613;2b6e:19c8:fbff
+1;403;Disney Ch. +1;614;2c8b:2580:fbff
+1;114;Disney Ch. +2;615;2b6a:19c8:fbff
+1;307;Disney XD;616;3bcb:64:fbff
+1;453;Disney XD +1;617;2cbd:2580:fbff
+1;405;Disney XD +2;618;2c8d:2580:fbff
+1;454;DisneyInEnglish;620;2cbe:2580:fbff
+1;470;JimJam;621;24fe:2260:fbff
+1;62;JimJam +1;622;fde:2648:fbff
+1;310;Baby TV;624;2c2e:251c:fbff
+1;421;DeASuper;625;2c9d:2580:fbff
+1;582;K2;626;2d3e:2774:fbff
+1;581;-frisbee-;627;2d3d:2774:fbff
+1;5263;Al Jazeera Children's Channel;690;2492:23f0:13f
+1;5264;Baraem;691;2488:23f0:13f
+1;540;Sky Radio;700;38cc:1af4:fbff
+1;341;Sky Music;701;3bed:64:fbff
+1;544;Live!;702;38d0:1af4:fbff
+1;579;Music Box;703;38f3:1af4:fbff
+1;275;MTV Hits;704;2ff3:1d4c:fbff
+1;427;MTV Classic;705;593:320:fbff
+1;397;MTV Rocks;706;2c85:251c:fbff
+1;429;MTV Dance;707;595:320:fbff
+1;428;MTV Music;708;594:320:fbff
+1;315;VideoItalia;712;2c33:251c:fbff
+1;304;myDeejay;714;2c28:251c:fbff
+1;437;Onda Latina;715;59d:320:fbff
+1;388;Matchmusic;716;3c1c:64:fbff
+1;333;Rock TV;718;3be5:64:fbff
+1;309;Hip Hop TV;720;3bcd:64:fbff
+1;464;Classica;728;2cc8:2580:fbff
+1;812;RTL 102.5 TV;750;29d0:3cf0:13e
+1;5330;VIRGIN RADIO TV;752;e11:708:c8
+1;5257;Rai Radio Uno;761;cef:1518:13e
+1;5258;Rai Radio Due;762;cf0:1518:13e
+1;5259;Rai Radio Tre;763;cf1:1518:13e
+1;334;Sky Music;770;3be6:64:fbff
+1;336;50 songs;771;3be8:64:fbff
+1;338;Yesterjay '90;772;3bea:64:fbff
+1;337;Yesterjay '80;773;3be9:64:fbff
+1;358;Capital '70;774;3bfe:64:fbff
+1;359;Vintage '60;775;3bff:64:fbff
+1;375;Rock Classic;776;3c0f:64:fbff
+1;376;Rock Shock;777;3c10:64:fbff
+1;360;Vibe;778;3c00:64:fbff
+1;339;Hit Italia;779;3beb:64:fbff
+1;340;ItalianVintage;780;3bec:64:fbff
+1;374;Livetime;781;3c0e:64:fbff
+1;370;Heart n' song;782;3c0a:64:fbff
+1;377;B-Side;783;3c11:64:fbff
+1;373;Ritmo Latino;784;3c0d:64:fbff
+1;372;Dance;785;3c0c:64:fbff
+1;366;Yesterjay 2000;786;3c06:64:fbff
+1;378;Jazz & Fusion;787;3c12:64:fbff
+1;379;Jazz Gold;788;3c13:64:fbff
+1;380;Soul Train;789;3c14:64:fbff
+1;381;Extrabeat;790;3c15:64:fbff
+1;382;Sinfonia;791;3c16:64:fbff
+1;383;Opera;792;3c17:64:fbff
+1;384;Cinema Deejay;793;3c18:64:fbff
+1;385;Baby Mix;794;3c19:64:fbff
+1;386;Disc Joker;795;3c1a:64:fbff
+1;462;Sky Inside;800;24f6:2260:fbff
+1;817;TV2000;801;ced:1518:13e
+1;896;RAI Med;804;d4c:1450:13e
+1;804;Rai Storia;805;ceb:1518:13e
+1;805;Rai Scuola;806;d4e:1450:13e
+1;881;RAI Gulp;807;cee:1518:13e
+1;5244;YOUDEM.TV;808;39ee:1fa4:13e
+1;813;Passione Pesca;809;422c:3db8:13e
+1;5327;Canale Aste;810;1c56:1c20:13e
+1;5277;YES ITALIA;811;3911:32c8:13e
+1;823;RAI Nett. 1;812;cec:1518:13e
+1;853;Ceramicanda TG Arch;813;1347:33f4:13e
+1;875;Play TV;814;278:3c8c:13e
+1;847;Administra.it;815;237a:238c:13e
+1;983;Reteconomy;816;6cf:578:13e
+1;870;BIKE SHOW TV;817;1c5a:1c20:13e
+1;830;RTB;819;1241:2b5c:13e
+1;5328;TOSCANA LINK;820;4222:3db8:13e
+1;5319;Telecity;821;e21:708:c8
+1;839;Sardegna 1;822;44d6:258:13e
+1;842;Mediterraneo Sat;823;29fa:3cf0:13e
+1;843;Toscana Ch.;824;39ea:1fa4:13e
+1;846;People TV-Rete7;825;1c58:1c20:13e
+1;852;Telecolore;826;712:578:13e
+1;5260;Tv 8 Mont Blanc;827;22ae:238c:13e
+1;886;GBR;828;1339:33f4:13e
+1;888;E' TV Emilia R.;829;29e2:3cf0:13e
+1;851;Telenova;830;730:578:13e
+1;984;TVA Vicenza;832;6ad:578:13e
+1;5241;Telefoggia;833;1336:33f4:13e
+1;991;Teletirreno;834;39eb:1fa4:13e
+1;5104;AB Channel;835;4205:3db8:13e
+1;5105;TeF Channel;836;1330:33f4:13e
+1;5109;Studio 100 TV;837;6c2:578:13e
+1;5116;Trentino TV;838;e22:708:c8
+1;5122;VENETO LINK;839;73a:578:13e
+1;5130;La Nuova TV;840;71c:578:13e
+1;5133;Ulisse;841;6d0:578:13e
+1;5138;Bergamo Sat;842;227e:238c:13e
+1;5142;Salento Channel;843;6d6:578:13e
+1;848;PRIMANTENNA;844;272:3c8c:13e
+1;990;LIGURIA TV;845;2996:3d54:13e
+1;818;Telepace;850;bbf:20d0:13e
+1;5238;Daystar Tv;851;34c0:3c28:13e
+1;860;TelePadrePio;852;132e:33f4:13e
+1;5275;The Word Network;853;2987:3d54:13e
+1;5249;Inspiration;854;34c8:3c28:13e
+1;5261;EWTN;855;34ca:3c28:13e
+1;819;TBNE;856;323:3bc4:13e
+1;5240;Sender Neu Jerusalem;857;2d3:1b58:13e
+1;878;TRSP;858;133d:33f4:13e
+1;5248;Erde und Mensch;859;1340:33f4:13e
+1;832;Telemarket;861;133f:33f4:13e
+1;833;Noello Sat;862;e1f:708:c8
+1;837;Elite Shopping;863;274:3c8c:13e
+1;5325;Juwelo;864;27e:3c8c:13e
+1;884;Dipre' TV;865;1266:3458:13e
+1;885;Telemarket 2;866;2cc:1b58:13e
+1;5134;La sorgente Sat 1;867;e1d:708:c8
+1;5135;La sorgente Sat 2;868;e1c:708:c8
+1;5136;La sorgente Sat 3;869;e1b:708:c8
+1;814;Tivu Tivu;872;1269:3458:13e
+1;5324;Hercules;873;1289:3458:13e
+1;5239;Subacquea Tv;874;422d:3db8:13e
+1;821;Made in Italy;875;34ea:3c28:13e
+1;5326;Las Televenta;876;1288:3458:13e
+1;5323;New Generation Tv;877;128a:3458:13e
+1;5175;La 8;878;669:578:13e
+1;5176;Viva l'Italia Channel;879;34cc:3c28:13e
+1;835;Tiziana Sat;880;227c:238c:13e
+1;836;Studio Europa;881;4232:3db8:13e
+1;5182;In Tv;882;1265:3458:13e
+1;5188;Pianeta TV;883;29cd:3cf0:13e
+1;5404;MyTivi;884;128c:3458:13e
+1;844;ContoTV;885;20ee:3db8:13e
+1;5205;Betting Channel;886;279:3c8c:13e
+1;854;Roma Sat;887;4227:3db8:13e
+1;856;Lunasat;888;2383:238c:13e
+1;857;Dance TV;889;422a:3db8:13e
+1;858;(null);890;287:3c8c:13e
+1;889;Free Channel;891;132f:33f4:13e
+1;5183;Music Life;892;6ce:578:13e
+1;5270;(null);893;288:3c8c:13e
+1;5289;Moonlightv;894;126d:3458:13e
+1;867;wewell channel;895;66b:578:13e
+1;890;Telemodena;896;4209:3db8:13e
+1;872;Starsat;897;25d:3c8c:13e
+1;5408;EURSAT;898;1270:3458:13e
+1;5247;CIAO;899;2384:238c:13e
+1;874;TeleA;901;2994:3d54:13e
+1;879;Reality TV;902;29fc:3cf0:13e
+1;5177;CHAT;903;238a:238c:13e
+1;965;3 Channel;904;275:3c8c:13e
+1;966;Shop Window Tv;905;126e:3458:13e
+1;883;Tivu Tivu 2;906;126f:3458:13e
+1;967;LA 9;907;726:578:13e
+1;5276;Lombardia SAT;908;231b:238c:13e
+1;803;New Television;909;4218:3db8:13e
+1;808;Mondo Shop;910;4228:3db8:13e
+1;822;Spy TV;911;22e0:238c:13e
+1;829;Italia Channel;912;29d2:3cf0:13e
+1;831;Canale Italia;913;4214:3db8:13e
+1;5409;(null);914;296:3c8c:13e
+1;972;TV7 Lombardia;915;66a:578:13e
+1;5405;Dipre' TV2;916;126a:3458:13e
+1;5178;New One;917;2386:238c:13e
+1;5406;Arte Channel;918;66d:578:13e
+1;869;Euroitaly Channel;919;22df:238c:13e
+1;871;Napoli Mia;920;273:3c8c:13e
+1;5179;DirettaTV;921;2388:238c:13e
+1;5106;Challenger TV;922;1335:33f4:13e
+1;5293;Quore Tv;923;29fb:3cf0:13e
+1;973;METRO.SAT;924;285:3c8c:13e
+1;980;Lazio Channel;925;67c:578:13e
+1;982;Rete Oro;926;238b:238c:13e
+1;5180;(null);927;299:3c8c:13e
+1;987;(null);928;297:3c8c:13e
+1;988;Napoli TLA;929;2990:3d54:13e
+1;989;+ TV;930;2389:238c:13e
+1;5410;JUST ONE;931;238d:238c:13e
+1;5281;Telepiu' Channel;932;29ce:3cf0:13e
+1;9706;Italia Sat;933;35c9:1388:13e
+1;5101;Telefortune Sat;934;1ca4:332c:13e
+1;5102;Mare TV;935;4229:3db8:13e
+1;5103;Italia Mia;936;2991:3d54:13e
+1;5184;Super;938;2385:238c:13e
+1;5108;Libera TV;939;4213:3db8:13e
+1;5110;.BLU;940;20ea:3db8:13e
+1;5115;Tele A +sat;941;2993:3d54:13e
+1;5117;Numberone Channel;942;238c:238c:13e
+1;5118;Carpe Diem;943;231d:238c:13e
+1;5123;Dipre' Art Channel;944;422b:3db8:13e
+1;5124;Wanted Tv;945;668:578:13e
+1;5125;Telelotto;946;1331:33f4:13e
+1;5126;Italia 8;947;1341:33f4:13e
+1;5127;Fuego TV;948;1267:3458:13e
+1;880;Carisma TV;949;29d4:3cf0:13e
+1;5294;Telecolor;950;231e:238c:13e
+1;5132;One;951;22e1:238c:13e
+1;5320;Eurotic TV;952;1271:3458:13e
+1;5145;(null);953;298:3c8c:13e
+1;5243;GDG Channel;954;277:3c8c:13e
+1;5185;One Sri Lanka;958;6e1:578:13e
+1;5401;test651;960;44d7:258:13e
+1;5107;Conto TV 1;981;20ed:3db8:13e
+1;5141;Conto TV 2;982;20ec:3db8:13e
+1;5187;Conto TV 3;983;20eb:3db8:13e
+1;5266;Conto TV 4;984;20ef:3db8:13e
+1;5288;Conto TV 5;985;20f0:3db8:13e
+1;729;TELEITALIA;987;35c4:1388:13e
+1;5271;TELEITALIASPORT;988;35c2:1388:13e
+1;5272;TELEITALIAORO;989;35c1:1388:13e
+1;5267;TELEITALIAPLUS;990;35c0:1388:13e
+1;5280;SCT;991;35c8:1388:13e
+1;5283;TELEITALIA/SCT;992;35c3:1388:13e
+1;5284;TELEITALIA/SCT;993;35c6:1388:13e
+1;5285;TELEITALIA/SCT;994;35c7:1388:13e
+1;5316;SatisfactionHD;995;a:1388:13e
+1;773;Focus HD;996;1e5d:15e0:fbff
+1;66;Sky Test;997;fe2:2648:fbff
+1;559;Sky Assist;999;38df:1af4:fbff
+1;246;Sky Uno HD;1090;37a6:14b4:fbff
+1;237;Fox HD;1110;379d:14b4:fbff
+1;238;Fox Crime HD;1170;379e:14b4:fbff
+1;443;AXN;1200;5a3:320:fbff
+1;1331;Sky Uno HD;1830;2c43:251c:fbff
+1;1325;Fox HD;1840;2c3d:251c:fbff
+1;326;Fox Crime HD;1860;2c3e:251c:fbff
+1;443;AXN;1880;5a3:320:fbff
+1;35;Sky Sport24 HD;2000;2b1b:1900:fbff
+1;23;Sky Sport 1 HD;2010;2b0f:1900:fbff
+1;24;Sky Sport 2 HD;2020;2b10:1900:fbff
+1;208;Sky Sport 3 HD;2030;1c28:206c:fbff
+1;608;Sky Mondiale;2040;2d58:170c:fbff
+1;209;Sky Supercalcio HD;2050;1c29:206c:fbff
+1;3073;Eurosport HD;2110;3311:190:13e
+1;316;Sky Sport 1 HD;2410;2c34:251c:fbff
+1;368;Sky Sport 2 HD;2420;2c68:251c:fbff
+1;357;Sky Sport 3 HD;2430;2c5d:251c:fbff
+1;1346;Sky Mondiale HD;2440;2c52:251c:fbff
+1;1309;Sky Supercalcio HD;2450;2c2d:251c:fbff
+1;566;Eurosport;2460;2d2e:2774:fbff
+1;230;Sky Supercalcio HD;2490;1c3e:206c:fbff
+1;37;Sky Sport24 HD;2500;2b1d:1900:fbff
+1;941;Sky Calcio 1 HD;2510;f65:2198:fbff
+1;940;Sky Calcio 2 HD;2520;f64:2198:fbff
+1;233;Sky Calcio 3 HD;2530;1089:2008:fbff
+1;234;Sky Calcio 4 HD;2540;108a:2008:fbff
+1;910;Sky Calcio 5 HD;2550;f46:2198:fbff
+1;912;Sky Calcio 6 HD;2560;f48:2198:fbff
+1;225;Sky Calcio 7;2570;2bd9:1a90:fbff
+1;606;Sky Calcio 8;2580;2d56:170c:fbff
+1;396;Sky Calcio 1 HD;2710;2c84:251c:fbff
+1;1314;Sky Calcio 2 HD;2720;2c32:251c:fbff
+1;1301;Sky Calcio 3 HD;2730;2c25:251c:fbff
+1;1330;Sky Calcio 4 HD;2740;2c42:251c:fbff
+1;1332;Sky Calcio 5 HD;2750;2c44:251c:fbff
+1;1327;Sky Calcio 6 HD;2760;2c3f:251c:fbff
+1;1328;Sky Calcio 7 HD;2770;2c40:251c:fbff
+1;1329;Sky Calcio 8 HD;2780;2c41:251c:fbff
+1;202;Cinema 1 HD;3010;106a:2008:fbff
+1;253;Cinema +1 HD;3020;1c55:206c:fbff
+1;107;Cinema +24;3030;2b63:19c8:fbff
+1;204;Cinema Hits HD;3040;106c:2008:fbff
+1;255;CinemaFamilyHD;3060;1c57:206c:fbff
+1;231;Cinema Passion HD;3080;1c3f:206c:fbff
+1;725;Cinema Comedy;3100;2dcd:1a2c:fbff
+1;206;Cinema Max HD;3120;106e:2008:fbff
+1;715;Cinema Max +1;3130;2dc3:1a2c:fbff
+1;109;Cinema Classics;3150;2b65:19c8:fbff
+1;300;Cinema 1 HD;3310;2c24:251c:fbff
+1;1333;Cinema +1 HD;3320;2c45:251c:fbff
+1;1334;Cinema +24 HD;3330;2c46:251c:fbff
+1;343;Cinema Hits HD;3340;2c4f:251c:fbff
+1;1335;CinemaFamilyHD;3360;2c47:251c:fbff
+1;1337;Cinema Passion HD;3380;2c49:251c:fbff
+1;1338;Cinema Comedy HD;3400;2c4a:251c:fbff
+1;349;Cinema Max HD;3420;2c55:251c:fbff
+1;1339;Cinema Max +1 HD;3430;2c4b:251c:fbff
+1;1336;Cinema Classics HD;3450;2c48:251c:fbff
+1;621;Primafila 1;3510;2d65:170c:fbff
+1;216;Primafila 3;3530;2bd0:1a90:fbff
+1;914;Primafila 5 HD;3550;f4a:2198:fbff
+1;916;Primafila 7 HD;3570;f4c:2198:fbff
+1;235;Primafila 9 HD;3590;108b:2008:fbff
+1;239;Primafila 11 HD;3610;108f:2008:fbff
+1;943;Primafila 13 HD;3630;f67:2198:fbff
+1;290;Primafila 20 HD;3700;37d2:14b4:fbff
+1;586;Primafila 21;3710;38fa:1af4:fbff
+1;536;Primafila 22;3720;38c8:1af4:fbff
+1;345;Primafila 23;3730;3421:2710:fbff
+1;351;Primafila 24;3740;3427:2710:fbff
+1;346;Primafila 25;3750;3422:2710:fbff
+1;347;Primafila 26;3760;3423:2710:fbff
+1;342;Primafila 27;3770;341e:2710:fbff
+1;537;Primafila 28;3780;38c9:1af4:fbff
+1;324;Primafila 1 HD;3910;2c3c:251c:fbff
+1;355;Primafila 3 HD;3920;2c5b:251c:fbff
+1;1340;Primafila 5 HD;3930;2c4c:251c:fbff
+1;1341;Primafila 7 HD;3940;2c4d:251c:fbff
+1;1342;Primafila 9 HD;3950;2c4e:251c:fbff
+1;1344;Primafila 11 HD;3960;2c50:251c:fbff
+1;1345;Primafila 13 HD;3970;2c51:251c:fbff
+1;931;Discovery;4010;2ab3:1838:fbff
+1;236;NationalGeo HD;4030;379c:14b4:fbff
+1;1302;Discovery HD;4510;2c26:251c:fbff
+1;1307;NationalGeo HD;4520;2c2b:251c:fbff
