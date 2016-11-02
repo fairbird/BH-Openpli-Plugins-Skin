@@ -1355,6 +1355,143 @@ self.instance.move(ePoint(orgpos.x() + (orgwidth - newwidth)/2, orgpos.y() + (or
 		</widget>
 	</screen>
 
+<!-- Delite Green Panel -->
+    <screen name="DeliteGreenPanel" position="230,130" size="820,490" title="Black Hole Green Panel">
+    <ePixmap position="550,100" size="256,256" pixmap="skin_default/menu/green.png" zPosition="1" alphatest="on" />
+    <ePixmap pixmap="skin_default/div-h.png" position="0,440" zPosition="1" size="820,2" />
+    <ePixmap pixmap="skin_default/buttons/red35x35.png" position="10,450" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/green35x35.png" position="210,450" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/yellow35x35.png" position="410,450" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/blue35x35.png" position="610,450" size="35,35" alphatest="blend" />
+    <widget name="key_red" position="55,456" size="250,35" zPosition="1" font="Regular;20" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <widget name="key_green" position="255,456" size="250,35" zPosition="1" font="Regular;20" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <widget name="key_yellow" position="455,456" size="250,35" zPosition="1" font="Regular;20" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <widget name="key_blue" position="655,456" size="250,35" zPosition="1" font="Regular;20" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <widget source="list" render="Listbox" position="20,20" size="510,400" enableWrapAround="1" zPosition="2" scrollbarMode="showOnDemand" transparent="1">
+      <convert type="TemplatedMultiContent">
+{"template": [
+MultiContentEntryText(pos = (115, 2), size = (390, 25), font=0, text = 0),
+MultiContentEntryText(pos = (115, 24), size = (390, 22), font=1, text = 1),
+MultiContentEntryPixmapAlphaTest(pos = (5, 5), size = (100, 40), png = 2),
+],
+"fonts": [gFont("Regular", 22),gFont("Regular", 18)],
+"itemHeight": 50
+}
+</convert>
+    </widget>
+  </screen>
+
+<!-- Delite Blue Panel -->
+  <screen name="DeliteBluePanel" position="230,130" size="820,490" title="Black Hole Blue Panel">
+    <ePixmap position="550,100" size="256,256" pixmap="skin_default/menu/blue.png" zPosition="1" alphatest="on" />
+    <ePixmap position="15,10" size="510,240" pixmap="skin_default/menu/bp_deko.png" zPosition="1" alphatest="blend" />
+    <eLabel text="OK" position="47,18" size="80,35" zPosition="1" font="Regular;27" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <ePixmap pixmap="skin_default/div-h.png" position="0,440" zPosition="1" size="820,2" />
+    <ePixmap pixmap="skin_default/buttons/red35x35.png" position="10,450" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/green35x35.png" position="210,450" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/yellow35x35.png" position="410,450" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/blue35x35.png" position="610,450" size="35,35" alphatest="blend" />
+    <widget name="key_red" position="55,456" size="250,35" zPosition="1" font="Regular;20" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <widget name="key_green" position="255,456" size="250,35" zPosition="1" font="Regular;20" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <widget name="key_yellow" position="455,456" size="250,35" zPosition="1" font="Regular;20" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <widget name="key_blue" position="655,456" size="250,35" zPosition="1" font="Regular;20" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <widget name="lab1" position="180,5" size="230,25" font="Regular;20" zPosition="2" backgroundColor="transpBlack" transparent="1" />
+    <widget name="lab2" position="180,35" size="190,25" font="Regular;20" zPosition="2" backgroundColor="transpBlack" transparent="1" />
+    <widget name="list" position="20,73" size="400,25" zPosition="2" scrollbarMode="showOnDemand" transparent="1" />
+    <widget name="lab3" position="20,106" size="120,25" font="Regular;20" halign="left" zPosition="2" backgroundColor="transpBlack" transparent="1" />
+    <widget name="activecam" position="141,106" size="245,25" font="Regular;20" halign="left" zPosition="2" backgroundColor="transpBlack" transparent="1" />
+    <widget name="Ilab1" position="20,140" size="340,25" font="Regular;20" zPosition="2" backgroundColor="transpBlack" transparent="1" />
+    <widget name="Ilab2" position="20,165" size="340,25" font="Regular;20" zPosition="2" backgroundColor="transpBlack" transparent="1" />
+    <widget name="Ilab3" position="20,190" size="340,25" font="Regular;20" zPosition="2" backgroundColor="transpBlack" transparent="1" />
+    <widget name="Ilab4" position="20,215" size="340,25" font="Regular;20" zPosition="2" backgroundColor="transpBlack" transparent="1" />
+    <widget name="Ecmtext" position="20,247" size="500,190" font="Regular;18" halign="left" zPosition="2" backgroundColor="transpBlack" transparent="1" />
+  </screen>
+  <screen name="DeliteAddons" position="50,85" size="490,480" title="Addons Manager">
+    <widget source="list" render="Listbox" enableWrapAround="1" position="10,20" size="470,450" zPosition="2" selectionPixmap="skin_default/menu/setsel.png" scrollbarMode="showNever" transparent="1">
+      <convert type="TemplatedMultiContent">
+{"template": [ MultiContentEntryText(pos = (65,9), size = (405,32), flags = RT_HALIGN_LEFT, text = 0),
+MultiContentEntryPixmapAlphaTest(pos = (3, 3), size = (40, 40), png = 1),
+],
+"fonts": [gFont("Regular", 24)],
+"itemHeight": 45
+}
+</convert>
+    </widget>
+  </screen>
+
+<!-- Delite System Info -->
+<screen name="DeliteInfo" position="290,120" size="700,540" title="System Info">
+    <ePixmap pixmap="skin_default/meter_1.png" position="25,10" size="130,130" alphatest="on" />
+    <ePixmap pixmap="skin_default/meter_1.png" position="165,10" size="130,130" alphatest="on" />
+    <ePixmap pixmap="skin_default/meter_1.png" position="305,10" size="130,130" alphatest="on" />
+    <ePixmap pixmap="skin_default/meter_1.png" position="445,10" size="130,130" alphatest="on" />
+    <ePixmap pixmap="skin_default/meter_2.png" position="445,175" size="130,130" alphatest="on" />
+    <ePixmap pixmap="skin_default/meter_1.png" position="25,340" size="130,130" alphatest="on" />
+    <ePixmap pixmap="skin_default/meter_1.png" position="165,340" size="130,130" alphatest="on" />
+    <ePixmap pixmap="skin_default/meter_1.png" position="305,340" size="130,130" alphatest="on" />
+    <ePixmap pixmap="skin_default/meter_1.png" position="445,340" size="130,130" alphatest="on" />
+    <ePixmap pixmap="skin_default/moni.png" position="185,178" size="210,150" alphatest="on" />
+    <widget name="smallmon" position="190,183" size="200,140" zPosition="-1" font="Regular;17" halign="center" />
+    <widget name="ramg" position="40,26" size="100,100" zPosition="1" borderColor="red" transparent="1" />
+    <widget name="swapg" position="180,26" size="100,100" zPosition="1" borderColor="red" transparent="1" />
+    <widget name="flashg" position="320,26" size="100,100" zPosition="1" borderColor="red" transparent="1" />
+    <widget name="memtg" position="460,26" size="100,100" zPosition="1" borderColor="red" transparent="1" />
+    <widget name="hddtempg" position="460,188" size="100,100" zPosition="1" borderColor="red" transparent="1" />
+    <widget name="spacetg" position="40,356" size="100,100" zPosition="1" borderColor="red" transparent="1" />
+    <widget name="cffg" position="180,356" size="100,100" zPosition="1" borderColor="red" transparent="1" />
+    <widget name="usbg" position="320,356" size="100,100" zPosition="1" borderColor="red" transparent="1" />
+    <widget name="hddg" position="460,356" size="100,100" zPosition="1" borderColor="red" transparent="1" />
+    <eLabel text="Ram" position="25,143" zPosition="1" size="130,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Swap" position="165,143" zPosition="1" size="130,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Flash" position="295,143" zPosition="1" size="150,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Total Mem" position="445,143" zPosition="1" size="130,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="HDD Temp" position="445,310" zPosition="1" size="130,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Total Space" position="25,471" zPosition="1" size="130,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="CF" position="165,471" zPosition="1" size="130,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="USB" position="305,471" zPosition="1" size="130,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="HDD Space" position="445,471" zPosition="1" size="130,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <ePixmap pixmap="skin_default/buttons/monibutton.png" size="60,20" position="615,30" alphatest="on" />
+    <ePixmap pixmap="skin_default/buttons/monibutton.png" size="60,20" position="615,110" alphatest="on" />
+    <ePixmap pixmap="skin_default/buttons/monibutton.png" size="60,20" position="615,190" alphatest="on" />
+    <ePixmap pixmap="skin_default/buttons/monibutton.png" size="60,20" position="615,270" alphatest="on" />
+    <ePixmap pixmap="skin_default/buttons/monibutton.png" size="60,20" position="615,350" alphatest="on" />
+    <ePixmap pixmap="skin_default/buttons/monibutton.png" size="60,20" position="615,430" alphatest="on" />
+    <widget name="spy1" size="40,40" position="656,33" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy2" size="40,40" position="620,113" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy3" size="40,40" position="656,113" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy4" size="40,40" position="620,193" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy5" size="40,40" position="656,193" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy6" size="40,40" position="620,273" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy7" size="40,40" position="656,273" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy8" size="40,40" position="620,353" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy9" size="40,40" position="656,353" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy10" size="40,40" position="620,433" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <widget name="spy11" size="40,40" position="656,433" zPosition="1" pixmap="skin_default/buttons/monibutton_g.png" alphatest="on" />
+    <eLabel text="Ssh" position="615,60" zPosition="1" size="60,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Telnet" position="605,140" zPosition="1" size="80,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Ftp" position="615,220" zPosition="1" size="60,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Vpn" position="615,300" zPosition="1" size="60,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Samba" position="605,380" zPosition="1" size="80,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Nfs" position="615,460" zPosition="1" size="60,26" font="Regular;22" halign="center" backgroundColor="transpBlack" transparent="1" />
+    <ePixmap pixmap="skin_default/buttons/red35x35.png" position="40,175" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/green35x35.png" position="40,215" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/yellow35x35.png" position="40,255" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/blue35x35.png" position="40,295" size="35,35" alphatest="blend" />
+    <eLabel text="Memory" position="85,179" zPosition="1" size="120,26" font="Regular;22" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Space" position="85,219" zPosition="1" size="120,26" font="Regular;22" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Cpu" position="85,259" zPosition="1" size="120,26" font="Regular;22" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="Process" position="85,299" zPosition="1" size="120,26" font="Regular;22" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <ePixmap pixmap="skin_default/buttons/epg_b.png" position="49,503" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/epg_b.png" position="290,503" size="35,35" alphatest="blend" />
+    <ePixmap pixmap="skin_default/buttons/epg_b.png" position="520,503" size="35,35" alphatest="blend" />
+    <eLabel text="1    Settings Info" position="61,508" zPosition="1" size="180,26" font="Regular;22" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="2    Service Info" position="301,508" zPosition="1" size="180,26" font="Regular;22" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <eLabel text="3    About" position="531,508" zPosition="1" size="180,26" font="Regular;22" halign="left" backgroundColor="transpBlack" transparent="1" />
+    <widget name="moni" size="0,0" position="700,250" zPosition="2" />
+    <widget name="monipix" size="700,35" position="0,460" zPosition="4" pixmap="skin_default/big_monitor.png" alphatest="blend" />
+    <widget name="moni2" size="660,530" position="20,10" font="Regular;20" zPosition="3" />
+  </screen>
+
 	<!-- LCD/OLED Screens -->
 
 	<!-- LCD screen (channelselection) -->
